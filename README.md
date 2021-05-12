@@ -1,3 +1,3 @@
-## Grid biz
+## CSS Grids
 
-Responsive website created using css grids
+Responsive website created using css grids.
